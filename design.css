@@ -10,5 +10,6 @@ li {
 
 li.linha {
     background-color: aqua;
+    color: black;
     font-size: 1.5em;
 }
