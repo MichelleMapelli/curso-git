@@ -3,9 +3,12 @@ body {
     color: white;
 }
 
+li {
+    font-style: italic;
+    letter-spacing: 0.2em;
+}
+
 li.linha {
     background-color: aqua;
-    color: black;
-}li.linha {
-    background-color: aqua;
+    font-size: 1.5em;
 }
