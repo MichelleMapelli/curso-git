@@ -1,15 +1,14 @@
-body {
-    background-color: black;
-    color: white;
-}
-
-li {
-    font-style: italic;
-    letter-spacing: 0.2em;
-}
-
-li.linha {
-    background-color: aqua;
-    color: black;
-    font-size: 1.5em;
-}
+        body {
+        background-color: black;
+        color: white;
+    }
+    
+    li {
+        font-style: italic;
+        letter-spacing: 0.2em;
+    }
+    
+    li.linha {
+        background-color: aqua;
+        color: black;
+        font-size: 1.5em;
