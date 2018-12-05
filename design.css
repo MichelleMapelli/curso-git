@@ -2,3 +2,7 @@ body {
     background-color: black;
     color: white;
 }
+
+li.linha {
+    background-color: aqua;
+}
